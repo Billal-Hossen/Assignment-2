@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+.navbar{
+    font-size: 20px;
+    font-weight: bold;
+  
+}
+.nav-down{
+    margin-top: 300px;
+}
+.offer{
+    font-family: 'Bebas Neue', cursive;
+    font-style: italic;
+    font-size: 60px;
+}
+.head-card image{
+    width: 40%;
+    height: 140px;
+}
+section img{
+    width: 334;
+    height: 324;
+}
+
+.item-card img{
+    width: 311px;
+    height: 330px
+   
+}
+.card-button{
+    margin-left: 50px;
+}
+.small-card img{
+max-width: 75px;
+margin: 25px;
+padding: 5px;
+    
+}
+.item-card img{
+    background-color: rgb(221, 207, 207);
+    border-radius: 5px;
+    margin: 20px;
+  
+    height: 354;
+    width: 300;
+}
+.info{
+    font-family: 'Bebas Neue', cursive;
+    font-style: italic;
+    margin-left: 50px;
+    background-color: black;
+    padding: 30px;
+    
+   
+}
+.info a{
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(129, 69, 69);
+}
